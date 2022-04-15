@@ -20,6 +20,7 @@ at the MSX-DOS command prompt to launch the game. GFMRAM.BIN and METBGM.BIN must
 
 # Requirements 
 - MSX (any generation) with 64KB RAM
+- MSX-MUSIC or SFG compatible audio expansion cartridge
 - MSX-DOS
 
 This game is playable with keyboard or joystick, but for the intended and best experience use a paddle controller or mouse.
