@@ -23,7 +23,7 @@ at the MSX-DOS command prompt to launch the game. GFMRAM.BIN and METBGM.BIN must
 - MSX-MUSIC or SFG compatible audio expansion cartridge
 - MSX-DOS
 
-This game is playable with keyboard or joystick, but for the intended and best experience use a paddle controller or mouse.
+This game is playable with keyboard or joystick, but for the intended and best experience use a paddle controller or mouse. Please note the Taito Arkanoid paddle is not compatible.
 
 # Acknowledgements
 This game is public domain. If you paid for it, you got ripped off! The game logic is based on the original Meteor Storm which was a joint venture between myself and Maddie Russell. The music driver uses the [GETSLT routine](http://map.grauw.nl/sources/getslot.php) from the MSX Assembly Page written by Grauw. This game would not be possible without the MAP or MSX.org.
